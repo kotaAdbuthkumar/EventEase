@@ -19,6 +19,6 @@
     "express",
     "prisma"
   ],
-  "author": "EventEase Team",
+  "author": "Kota Adbuth Kumar",
   "license": "MIT"
 }

@@ -167,3 +167,12 @@ If you have a PostgreSQL server running locally or on cloud providers (Supabase,
 * `GET  /api/admin/stats` - Platform health stats
 * `GET  /api/admin/users` - User management & status toggle
 * `PUT  /api/admin/events/:id/status` - Event approval & featured toggle
+
+---
+
+## 📄 License & Author
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+**Author & Copyright**:  
+© 2026 **Kota Adbuth Kumar**. All rights reserved.
