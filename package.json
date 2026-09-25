@@ -1,0 +1,24 @@
+{
+  "name": "eventease",
+  "version": "1.0.0",
+  "description": "EventEase - Modern Full-Stack Event Management & Ticketing Platform",
+  "private": true,
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "seed": "npm --prefix backend run seed",
+    "prisma:push": "npm --prefix backend run prisma:push"
+  },
+  "keywords": [
+    "event-management",
+    "ticketing",
+    "qr-code",
+    "react",
+    "express",
+    "prisma"
+  ],
+  "author": "EventEase Team",
+  "license": "MIT"
+}
